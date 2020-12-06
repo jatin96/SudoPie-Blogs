@@ -2,6 +2,7 @@ baseURL: "https://examplesite.com"
 title: ExampleSite
 paginate: 5
 theme: hugo-PaperMod
+publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
